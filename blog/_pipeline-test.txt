@@ -1,4 +1,0 @@
-﻿CDMCG blog auto-deploy pipeline — test file.
-Written 2026-07-17 to verify the GitHub -> cPanel sync works end to end.
-This file is harmless and will be removed once the pipeline is confirmed.
-If you are reading this at https://cdmcg.com.au/blog/_pipeline-test.txt then the pipeline works.
